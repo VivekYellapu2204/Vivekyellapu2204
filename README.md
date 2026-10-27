@@ -11,7 +11,7 @@
   - **AWS Solutions Architect Associate**
   - **Databricks Data Engineer Professional**
 - 🌱 Currently preparing for: **AWS DevOps Engineer Professional**
-- 💡 GOAL: To become one of the top go-to reference experts for all things **Cloud Engineering**
+- 💡 GOAL: To become one of the top go-to reference experts for all things on **Cloud Engineering**
 - 💬 Ask me about: **AWS, Terraform, Ansible, CI/CD automation, Big Data, and Linux administration**
 - ⚡ Fun fact: Passionate about playing **Cricket** and **Badminton**
 
