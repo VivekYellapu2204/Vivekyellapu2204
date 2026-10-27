@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙏 I'm Vivek Yellapu</h1>
+<h1 align="center">Hi 👋, I'm Vivek Yellapu</h1>
 <h3 align="center">Senior Engineer Cloud Infra | Aspiring Lead Cloud Engineer from Hyderabad, India 🇮🇳</h3>
 
 <p align="left">
@@ -11,8 +11,8 @@
   - **AWS Solutions Architect Associate**
   - **Databricks Data Engineer Professional**
 - 🌱 Currently preparing for: **AWS DevOps Engineer Professional**
-- 💡 Mission: To become one of the top go-to reference experts for all things **Cloud Engineering**
-- 💬 Ask me about: **AWS, Terraform, Ansible, CI/CD automation, and Linux administration**
+- 💡 GOAL: To become one of the top go-to reference experts for all things **Cloud Engineering**
+- 💬 Ask me about: **AWS, Terraform, Ansible, CI/CD automation, Big Data, and Linux administration**
 - ⚡ Fun fact: Passionate about playing **Cricket** and **Badminton**
 
 ---
@@ -29,9 +29,11 @@
 
 ---
 
-### Languages and Tools:
+### Skills & Technical Expertise:
 
-* **Cloud & IaC:** AWS, Terraform
-* **Automation & CI/CD:** Ansible, Ansible Playbooks, Jenkins, GitLab
-* **Operating Systems & Scripting:** Linux, Red Hat Enterprise Linux (RHEL), Shell Scripting
-* **Development & Databases:** Python, Java, MySQL
+* **Cloud Platforms:** AWS (EC2, S3, IAM, RDS, VPC, EKS, ECS, ECR), Microsoft Azure
+* **Infrastructure as Code & Automation:** Terraform, Ansible (Playbooks), Vagrant
+* **DevOps & CI/CD:** Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Jenkins
+* **Big Data:** Databricks, Apache Hadoop
+* **Programming & Databases:** Python, Scala, Java, SQL, MySQL, Shell Scripting (Bash)
+* **Operating Systems & Networking:** Linux, Red Hat Enterprise Linux (RHEL), Windows, Networking Concepts
