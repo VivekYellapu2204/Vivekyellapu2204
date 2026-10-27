@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Yellapu</h1>
+<h1 align="center">Hi 🙏 I'm Vivek Yellapu</h1>
 <h3 align="center">Senior Engineer Cloud Infra | Aspiring Lead Cloud Engineer from Hyderabad, India 🇮🇳</h3>
 
 <p align="left">
